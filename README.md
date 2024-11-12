@@ -1,5 +1,5 @@
-# Awesome-Sampling-LLM
-the reading list to collect advanced MTCS technique for LMs or LLM-based agents.
+# Awesome-RL-LLM
+the reading list to collect advanced RL technique for LMs or LLM-based agents.
 
 # Paper
 1. [18 Apr 2024] Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models (Google)
