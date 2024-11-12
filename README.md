@@ -1,4 +1,4 @@
-# Awesome-MCTS-LLM
+# Awesome-Sampling-LLM
 the reading list to collect advanced MTCS technique for LMs or LLM-based agents.
 
 # Paper
